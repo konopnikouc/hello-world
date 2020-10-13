@@ -1,3 +1,3 @@
 # hello-world
-dalsi repozitar
+repozitar
 sranda informacni o me
